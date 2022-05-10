@@ -1,4 +1,5 @@
-# Olá, Bem Vindo a meu GitHub. É um prazer te ver por aqui! 
+
+# Olá, Bem-Vindo a meu GitHub. É um prazer te ver por aqui! 
 
 ## 🚀 Sobre mim...
 Após 10 anos como Consultora Sênior na área Comercial, hoje venho me especializando em Desenvolvimento Full Stack pela DIO e buscando minha primeira oportunidade na área de tecnologia. 
@@ -7,13 +8,13 @@ Para poder ser uma profissional qualificada !
 
 
 ## 🛠 Habilidades
-HTML5, CSS3 e Javascript...
+**HTML5, CSS3 e JAVASCRIPT**
 
 
 ## Conhecimentos que venho adquirindo:
 👩‍💻 Dev. Front-End: html5, css3 e javascript
 
-🧠 Me especialização em Desenvolvimento Full Stack
+🧠 Me especializando em Desenvolvimento Full Stack
 
 📖 Estudante de Análise e Desenvolvimento de Sistemas
 
