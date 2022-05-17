@@ -18,7 +18,7 @@ Para poder ser uma profissional qualificada !
 ## Conhecimentos que venho adquirindo:
 👩‍💻 Dev. Front-End: html5, css3 e javascript
 
-🧠 Me especializando em Desenvolvimento Full Stack
+🧠 Me especializando em Desenvolvimento Web
 
 📖 Estudante de Análise e Desenvolvimento de Sistemas
 
